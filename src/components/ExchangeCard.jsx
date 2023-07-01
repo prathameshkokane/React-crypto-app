@@ -3,7 +3,7 @@ import React from "react";
 
 const ExchangeCard = ({ name, img, rank, url }) => {
   return (
-    <a href="url" target="blank">
+    <a href={url} target="blank">
       <VStack
         w={"52"}
         shadow={"lg"}
