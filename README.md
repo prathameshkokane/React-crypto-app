@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is deployed at https://crypto-x-nine.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
